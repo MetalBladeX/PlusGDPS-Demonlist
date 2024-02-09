@@ -22,3 +22,5 @@ The following people have helped with development of pointercrate, either throug
 - Aquatias, Deltablu and Moosh: My trusty admins that click checkboxes for me (love you guys)
 - rSteel, zMarc, Stiluetto and Zipi: My beloved staff
 - and of course the developers of all the dependencies pointercrate uses
+- For M336 :)
+- 
